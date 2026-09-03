@@ -1,4 +1,4 @@
-export default function Informatica() {
+function Informatica() {
   return (
     <div>
       <h1>Técnico em Informática</h1>
@@ -6,3 +6,4 @@ export default function Informatica() {
     </div>
   );
 }
+export default Informatica
