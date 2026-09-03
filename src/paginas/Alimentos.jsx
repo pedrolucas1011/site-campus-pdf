@@ -1,4 +1,4 @@
-export default function Alimentos() {
+function Alimentos() {
   return (
     <div>
       <h1>Técnico em Alimentos</h1>
@@ -6,3 +6,4 @@ export default function Alimentos() {
     </div>
   );
 }
+export default Alimentos
